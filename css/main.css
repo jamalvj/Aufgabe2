@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+}
+
+.Rechteck-oben {
+  display: block;
+  width: 1920px;
+  height: 163px;
+  object-fit: cover;
+}
+
+.container {
+  position: absolute;
+  top: 8px;
+  left: 99px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.menu {
+  margin-top: 1px;
+  color: rgba(102, 102, 102, 1);
+  text-decoration: none;
+  justify-content: space-between;
+  margin-left: 180px;
+}
+.s-logo1 {
+    position: absolute;
+    margin-top: 1px;
+    text-decoration: none;
+    justify-content: space-between;
+    margin-left: 160px;
+}
+.s-logo2 {
+    position: absolute;
+    margin-top: 1px;
+    text-decoration: none;
+    justify-content: space-between;
+    margin-left: 545px;
+}
+.s-logo3 {
+    position: absolute;
+    margin-top: 1px;
+    text-decoration: none;
+    justify-content: space-between;
+    margin-left: 895px;
+}
+.s-logo4 {
+    position: absolute;
+    margin-top: 1px;
+    text-decoration: none;
+    justify-content: space-between;
+    margin-left: 1255px;
+}
